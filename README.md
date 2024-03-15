@@ -1,5 +1,7 @@
 # IRIS: Exploring Performance Scaling of the Intelligent Runtime System and its Dynamic Scheduling Policies
 
+Please view this artefact here: [iris-hcw-artefact.ipynb](iris-hcw-artefact.ipynb)
+The following is a conversion of the Jupyter Notebook.
 
 ```python
 %load_ext rpy2.ipython
